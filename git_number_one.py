@@ -1,1 +1,1 @@
-print("Проверка  того саомго diff")
+print("No code No pain")
